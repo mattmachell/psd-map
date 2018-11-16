@@ -22,19 +22,23 @@ body{
   height: 5em;
   background:#666;
   color:#fff;
+  min-height: 8em;
 }
 
 .footer a{
   color:#fff;
 }
 
-.banner-inner, .footer-inner{
+.banner-inner{
   margin: 0 auto;
   width: 70em;
   padding: 1em;
 }
 
 .footer-inner{
+  margin: 0 auto;
+  width: 77em;
+  padding: 1em;
   font-size: 0.9em;
 }
 
@@ -71,4 +75,18 @@ h1{
 P{
   padding: 0;
   margin: 0 0 1.67em 0;
+}
+
+/* 3. Icons
+   ========================================================================== */
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+  vertical-align: text-top;
+  margin-right:0.2em;
 }
