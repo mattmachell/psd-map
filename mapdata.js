@@ -94,7 +94,7 @@ var teams =
         },
         {
             "name":"Big Lottery Fund",
-            "latlong":[52.472, -1.918]
+            "latlong":[52.471414, -1.919639]
         },
         {
             "name":"University of Birmingham",
