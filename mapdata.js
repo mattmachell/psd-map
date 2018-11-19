@@ -58,7 +58,7 @@ var teams =
         },
         {
             "name": "West Midlands Police",
-            "latlong": [52.587, 2.128]
+            "latlong": [52.587, -2.128]
         },
         {
             "name": "Northamptonshire County Council",
