@@ -5,7 +5,11 @@ map.addLayer(layer);
 
 teams.map(function(el){
     var marker =  L.marker(el.latlong).addTo(map);
-    marker.bindPopup(el.name)
+    var html = '<h2>'+el.name+'</h2>';
+    if(!!el.description){
+        html+='<p>'+el.description+'</p>';
+    }
+    marker.bindPopup(html)
 })
 
 

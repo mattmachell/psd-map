@@ -5,7 +5,8 @@ var teams =
             "latlong": [
                 52.475,
                 -1.906
-            ]
+            ],
+            "description":"Building digital tools to help people planning for reduced mental capacity."
         },
         {
             "name": "Crown Commercial Services",
