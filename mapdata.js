@@ -148,6 +148,10 @@ var teams =
             "name":"CCS",
             "latlong":[ 51.514,-0.119]
         },
+        {
+            "name":"Gambling Commission",
+            "latlong":[52.479, -1.902]
+        },
         //
         /*  
          {
